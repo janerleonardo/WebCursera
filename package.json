@@ -1,0 +1,19 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "Curso de Cusera",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janerleonardo/WebCursera.git"
+  },
+  "author": "Jan3r",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janerleonardo/WebCursera/issues"
+  },
+  "homepage": "https://github.com/janerleonardo/WebCursera#readme"
+}
