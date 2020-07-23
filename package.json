@@ -4,7 +4,8 @@
   "description": "Curso de Cusera",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : " lite-server " 
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/janerleonardo/WebCursera/issues"
   },
-  "homepage": "https://github.com/janerleonardo/WebCursera#readme"
+  "homepage": "https://github.com/janerleonardo/WebCursera#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+  
 }
